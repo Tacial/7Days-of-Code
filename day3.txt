@@ -1,0 +1,4 @@
+Nesse dia, você irá juntar tudo o que viu nos dias anteriores
+ para criar uma narrativa dinâmica. E para que essa história 
+ só acabe quando a pessoa que a estiver lendo quiser, você 
+ precisará adicionar loops para fazer uma tarefa repetidas vezes!
