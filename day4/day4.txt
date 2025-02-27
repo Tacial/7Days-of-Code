@@ -1,0 +1,4 @@
+Como estamos no tema de jogos e narrativas, que tal criar
+ um programa para jogar contra o computador? No seu quarto
+ dia, você irá aprender a trabalhar com aleatoriedade para
+ criar um jogo.
